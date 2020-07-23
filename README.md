@@ -1,7 +1,7 @@
 # honors-jpaint
 
 ## Description
-null
+JPaint assignment given in Honors Java
 
 ### Tags
 [Java, Application]
